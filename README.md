@@ -1,8 +1,10 @@
-# mutbutt
+**mutbutt**
 
-## /mut-butt/
+**/mut-butt/**
 
-noun.
+
+_noun._
+
 
 some dumbass online
 
